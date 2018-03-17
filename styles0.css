@@ -1,0 +1,35 @@
+body {
+    background-image: linear-gradient(to left, #30cfd0 0%, #330867 100%);
+    color: darkblue;
+    font-weight: bold;
+    font-size: 26px;
+    text-align: center;
+  }
+  
+  #contentDiv {
+    background-color: lightgrey;
+    border-radius: 25px;
+    border: 3px solid white;
+    width: 65%;
+    margin: 15% auto;
+  }
+  
+  #quote {
+    padding: 15px;
+  }
+  
+  #btnsDiv {
+    clear: both;
+  }
+  
+  #newQuote {
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    font-size: 10px;
+    width: 77px;
+    height: 30px;
+    border-radius: 5px;
+    clear: both;
+    margin-bottom: 20px;
+  }
